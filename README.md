@@ -14,7 +14,7 @@ Para realizar este flow necesitas lo siguiente
     - [NPM](https://www.npmjs.com/)
     - [NodeRed](https://nodered.org/docs/getting-started/local)
     - [Nodos Dashboard](https://flows.nodered.org/node/node-red-dashboard)
-- [Mosquitto] (https://mosquitto.org/)
+- [Mosquitto](https://mosquitto.org/)
 
 ## Material de referencia
 
